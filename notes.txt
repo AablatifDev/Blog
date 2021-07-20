@@ -1,0 +1,6 @@
+Start JSON Server (Run this Command on \Blog>)
+    json-server --watch Data/db.json --port 4000
+
+
+Run in Terminal:
+    http://localhost:4000/posts
